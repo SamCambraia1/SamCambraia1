@@ -17,12 +17,11 @@
   <img align="center" alt="Sam-Js" height="25" width="70" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img align="center" alt="Sam-Js" height="25" width="70" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
   <img align="center" alt="Sam-Js" height="25" width="70" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img align="center" alt="Sam-Js" height="25" width="70" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
   
 </div>
   
   #
   #
-  <div>
+ 
   ![Snake animation](https://github.com/SamCambraia1/SamCambraia1/blob/output/github-contribution-grid-snake.svg)
-  </div>
+ 
