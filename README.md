@@ -24,3 +24,4 @@
   #
  
  
+  ![Snake animation](https://github.com/SamCambraia1/SamCambraia1/blob/output/github-contribution-grid-snake.svg)
