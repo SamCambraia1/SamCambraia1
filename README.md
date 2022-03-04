@@ -1,4 +1,4 @@
-## Hi, I'm Samir, computer science student and Devops Jr at Luby Softwares
+## Hi, I'm Samir, computer science student and RPG master in his spare time.
 
 <div>
   <a href="https://github.com/SamCambraia1">
