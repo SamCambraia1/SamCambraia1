@@ -1,4 +1,4 @@
-## Hi, I'm Samir, computer science student and RPG master in his spare time.
+## Hi, I'm Samir, computer science student and RPG dungeon master !.
 
 <div>
   <a href="https://github.com/SamCambraia1">
